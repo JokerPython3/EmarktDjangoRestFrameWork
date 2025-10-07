@@ -1,5 +1,11 @@
 ## RestAPi Emarkt Applction By Django Rest Frame Work
 
+## download repo (لازم تكون محمل اداه git )
+```bash
+git clone https://github.com/JokerPython3/EmarktDjangoRestFrameWork
+```
+
+
 ### download libary 
 ```bash
 pip install -r requirements.txt
